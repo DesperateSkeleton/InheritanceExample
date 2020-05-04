@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="player" Collapsed="true">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAQAAAAgAAAAAAEAAABAAAAAAAAAQQ=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mob" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAAAAAAABAAAAAAAAACAAAAAAAAAAAw=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="hostile_mob" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAQAAIAAAAAAAEAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="friendly_mob" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAABAAAQ=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="animal" Collapsed="true">
+    <Position X="1.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAAAAAAAAAAgAAAAAABgAAAAAAQ=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="villager" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAABAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAIEAQ=</HashCode>
+      <FileName>creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
